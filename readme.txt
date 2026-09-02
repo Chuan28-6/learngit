@@ -7,4 +7,8 @@ Git tracks changes of files.
 Creating a new branch is quick.
 new branch "dev" is goood
 let me play something goood
+<<<<<<< HEAD
 这次是master的冲突
+=======
+let me play something interesting!
+>>>>>>> dev
