@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 I am on master branch
 I am on dev branch
 Git has a mutable index called stage.
