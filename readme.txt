@@ -12,3 +12,4 @@ let me play something interesting!
 add merge
 add merge again
 bug 分支 play
+试试反向合并
