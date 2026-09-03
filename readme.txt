@@ -11,3 +11,4 @@ let me play something goood
 let me play something interesting!
 add merge
 add merge again
+bug 分支 play
